@@ -38,6 +38,6 @@ I am a developer from India , Banglore
 
 ### :fire: Contributions :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dev-mohanraj&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jyothiprakashk&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-mohanraj&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyothiprakashk&show_icons=true&theme=radical)
